@@ -1,6 +1,6 @@
 :root {
     --cor-de-fundo: #ea9ac7;
-    --branco: #FFFFFF;
+    --branco: #fdfbfb;
     --laranja: #bb7993;
     --azul-degrade: linear-gradient(97.54deg, #d2b8ce 35.49%, #d893c6 165.37%);
     --fonte-principal: "Poppins";
@@ -490,4 +490,7 @@ hr {
     .topicos {
         padding: 3em 30vw;
     }
+}
+.manuelly{
+    width: 20%;
 }
